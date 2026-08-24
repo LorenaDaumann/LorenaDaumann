@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img  src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
   <img  src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenadaumann&layout=compact&theme=tokyonight"  height="180" />
 </p>
 
@@ -39,11 +39,4 @@
   <img align="center" alt="Lore-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
----
 
-## 📈 Minhas estatísticas
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-  />
-</p>
