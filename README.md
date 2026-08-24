@@ -3,9 +3,10 @@
 - 🔭 Working with a little bit of everything [C; HTML; CSS; Python, MySQL; bootstrap; PHP]
 - 🌱 I’m currently learning Data Visualization & Business Intelligence with SCTEC
 - 📫 How to reach me: daumann.work@gmail.com
+- ❗ Please note: This profile is currently under construction
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lore-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lore-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Lore-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lore-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
