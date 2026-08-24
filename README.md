@@ -22,12 +22,19 @@
 </div>
 <br>
 
-<div> 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?lorenadaumann=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-  
-...your top languages...:
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?lorenadaumann=anuraghazra&langs_count=4)
 
-  ...and development time:
-  [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?lorenadaumann=alan&langs_count=6)](https://wakatime.com/@alan)
-  </div>
+<div>
+  <!-- Estatísticas Gerais do GitHub -->
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Estatísticas do GitHub" />
+  </a>
+
+  <!-- Linguagens Mais Usadas -->
+  <img src="https://vercel.app" alt="Linguagens Mais Usadas" />
+
+  <!-- Tempo de Desenvolvimento (WakaTime) -->
+  <a href="https://wakatime.com">
+    <img src="https://vercel.app" alt="Estatísticas WakaTime" />
+  </a>
+</div>
+
