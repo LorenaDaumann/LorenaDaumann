@@ -11,8 +11,8 @@
 
  
 <div align="center"> 
-  <a href="https://instagram.com/lorena_daumann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/1061058347907948624" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <!-- <a href="https://instagram.com/lorena_daumann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/1061058347907948624" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:daumann.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://Linkedin.com/in/lorena-daumann-66b072308" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
@@ -21,14 +21,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenadaumann&layout=compact&theme=tokyonight"
-    height="180"
-  />
+  <img  src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&theme=tokyonight" height="180"/>
+  <img  src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenadaumann&layout=compact&theme=tokyonight"  height="180" />
 </p>
 
 ---
