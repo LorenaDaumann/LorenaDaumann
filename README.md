@@ -12,7 +12,7 @@
   <img align="center" alt="Lore-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lore-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-  
+  ##
  
 <div> 
  
@@ -21,17 +21,14 @@
   <a href = "mailto:daumann.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorenadaumann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+##
 <div> 
-- Show your GitHub statistics:
-
+-Show your GitHub statistics:
   ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)
 
-- ...your top languages...:
-
+...your top languages...:
   ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)
 
-- ...and development time:
-
+  ...and development time:
   [![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6)](https://wakatime.com/@alan)
   </div>
