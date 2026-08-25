@@ -1,11 +1,11 @@
 
-<p>❗ Please note: This profile is currently under construction</p>
+<p>❗ Please note: This profile is currently under construction and having some alterations</p>
 <br>
 
 
-<h1 align="center">Olá, eu sou Lorena Daumann 👋</h1>
+<h1 align="center">Hi, I'm Lorena Daumann 👋</h1>
 <p align="center">
-  Estudante • Desenvolvedora • Data Science • Xadrez
+  Student • Developer • Data Science • Chess
 </p>
 
 
@@ -27,9 +27,9 @@
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologies
 <p align="center">
-  Python • SQL • MySQL • Git • GitHub • Linux • Data Science
+  Python • SQL • MySQL • Git • GitHub • Linux • Data Science • C • HTML • CSS • Java • Portugol 
 </p>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lore-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -40,3 +40,41 @@
 </div>
 
 
+## 🧠 What I do
+
+-   ⚡ Performance optimization
+-   🧩 Clean architecture 
+-   🔐 Secure APIs & authentication
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+-   🎓 .....
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-FFD43B?style=for-the-badge&logo=html&logoColor=000)
+![CSS](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Backend
+
+<!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)-->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-0000A1?style=for-the-badge&logo=python)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GoogleColab](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![MySQLWorkbench](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+<!-- postgresql://aluno_readonly:SenhaDosAlunos123%21@ep-little-cherry-acz9sbfx-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require -->
