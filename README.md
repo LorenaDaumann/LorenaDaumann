@@ -1,9 +1,7 @@
 
 <p>❗ Please note: This profile is currently under construction and having some alterations</p>
-<br>
 
-
-<h1 >Hi, I'm Lorena Daumann 👋</h1>
+<h1>Hi, I'm Lorena Daumann 👋</h1>
 <p>
   Student • Developer • Data Science • Chess
 </p>
@@ -14,16 +12,6 @@
   <a href = "mailto:daumann.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenadaumann&layout=compact&theme=tokyonight"  height="205"/>
-</p>
-
-
----
 
  <!--## 🧠 What I do
 
@@ -35,6 +23,7 @@
 -   🎓 .....
 
 --->
+---
 
 ## 🛠️ Tech Stack
 
@@ -75,3 +64,16 @@
 ---
 
 <!-- postgresql://aluno_readonly:SenhaDosAlunos123%21@ep-little-cherry-acz9sbfx-pooler.sa-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require -->
+
+
+
+---
+
+<h2 align="center"> 📊 GitHub Stats </h2>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenadaumann&layout=compact&theme=tokyonight"  height="205"/>
+</p>
+
+
+---
