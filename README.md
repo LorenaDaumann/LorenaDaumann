@@ -85,7 +85,7 @@
 
 </p>
 
-<h3 align="center">🛠️ Ferramentas</h3>
+<h3 align="center">🛠️ Tools</h3>
 
 <p align="center">
 
