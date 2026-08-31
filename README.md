@@ -1,9 +1,18 @@
 
 <p>❗ Please note: This profile is currently under construction and having some alterations</p>
 
-# Hi, I'm Lorena Daumann 👋
+<h1 align="center">Hi, I'm Lorena Daumann 👋</h1>
   
-  **`Student`**  **`Developer`**  **`Data Science`**  **`Chess`**
+<p align="center">
+  <strong><code>Student</code></strong>
+  &nbsp;&nbsp;
+  <strong><code>Developer</code></strong>
+  &nbsp;&nbsp;
+  <strong><code>Data Science</code></strong>
+  &nbsp;&nbsp;
+  <strong><code>Chess</code></strong>
+</p>
+
 
 
 
@@ -25,7 +34,7 @@
 --->
 ---
 
-## 🛠️ Tech Stack & GitHub Stats
+<h2 align="center">🛠️ Tech Stack & GitHub Stats</h2> 
 
 <table>
 <tr>
