@@ -46,16 +46,23 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=lorenadaumann&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" width="100%"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=LorenaDaumann&show_icons=true&include_all_commits=true&theme=tokyonight"
+    width="100%"
+  />
 </p>
 
 <h3 align="center">💻 Most Used Languages</h3>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lorenadaumann&layout=compact&theme=tokyonight" width="100%"/>
+<p align="center" style="font-size: 6px;">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LorenaDaumann&layout=compact&langs_count=8&theme=tokyonight"
+    width="100%" 
+  />
 </p>
 
 </td>
+
 
 <!-- ==================== RIGHT COLUMN ==================== -->
 
