@@ -82,6 +82,7 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=fff" height="30">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff" height="30">
 
 </p>
 
@@ -95,6 +96,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" height="30">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" height="30">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" height="30">
+<img src="https://img.shields.io/badge/Portugol-F5D167?style=for-the-badge&logo=portugol&logoColor=000" height="30">
+<img src="https://img.shields.io/badge/XAMPP-F58945?style=for-the-badge&logo=xampp&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/Dev--C%2B%2B-0078D4?style=for-the-badge&logo=cplusplus&logoColor=fff" height="30">
 
 </p>
 
