@@ -34,7 +34,7 @@
 --->
 ---
 
-<h2 align="center">🛠️ Tech Stack & GitHub Stats</h2> 
+<h2 align="center">🛠️ GitHub Stats & Tech Stack</h2> 
 
 <table>
 <tr>
